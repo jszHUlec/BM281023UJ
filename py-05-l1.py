@@ -1,3 +1,4 @@
+# TO JEST PLIK PYTHON DO ROZDZIALU 5
 def pobierzLiczbe(numer):
     while True:
         try:
