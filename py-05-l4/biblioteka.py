@@ -1,4 +1,4 @@
-import przyklad
+import py_05_l4
 def wyswietl():
     print("biblioteka.py", __name__)
 
@@ -8,4 +8,4 @@ def test():
 if __name__ == '__main__':
     test()
     wyswietl()
-    przyklad.wyswietl()
+    py_05_l4.wyswietl()

@@ -38,7 +38,7 @@ def main():
     elif "*" == operacja:
         mnozenie(liczba1, liczba2)
     elif "/" == operacja:
-        dzielenie(liczba1, liczba2)
+        dzielenie(liczba2, liczba1)
 
 while True:
     main()
